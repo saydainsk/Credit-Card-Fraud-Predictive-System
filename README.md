@@ -1,2 +1,1 @@
-# Credit-Card-Fraud-Predictive-System
-Detects Fraudulent Transactions and prevents them from happening.
+# Saydain's Personal Data Science/ML Projects
